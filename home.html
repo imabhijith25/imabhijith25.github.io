@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Basic&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Heebo&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300&display=swap" rel="stylesheet">
+    <title>Document</title>
+   
+   
+</head>
+<style>
+    body{
+        display:flex;
+        flex-direction: row;
+        
+        justify-content: center;
+        align-items: center;
+        background-color: #f7f7f7;
+      
+    }
+    #chatbody{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        width: 300px;
+        height: 530px;
+        box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 2px;
+        background-color:#39b6e3;
+     
+        
+    }
+    #senderhead{
+        font-family: 'Basic', sans-serif;
+        width: 300px;
+        height: 60px;
+      
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    #msgbody{
+        width: 300px;
+        height: 400px;
+   
+        background-color: #f7f7f7;
+        overflow: auto;
+       
+
+        
+    }
+    #txtbody{
+        font-family: 'Basic', sans-serif;
+        width: 300px;
+        height: 70px;
+        border-top: 1px solid #cfcfcf;
+        background-color: white;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+  
+    }
+    #text{
+        border: none;
+        width: 200px;
+
+    }
+    #text:focus{
+        outline: none;
+    }
+    #send{
+        background-color: #39b6e3;
+        border: none;
+        color: white;
+        padding: 10px;
+        border-radius: 3px;
+        font-family: 'Basic', sans-serif;
+        
+    }
+    #send:focus{
+        outline: none;
+
+    }
+    .sendtext{
+        
+        display: table;
+        
+        background-color:#fafcfc;
+        border-radius: 3px;
+        box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        padding-left: 7px;
+        padding-right: 7px;
+        margin:10px;
+        
+
+    }
+    .rectext{
+        
+ 
+        text-align: right;
+
+        
+    
+
+        
+
+    }
+    .textstyle{
+        font-family: 'Heebo', sans-serif;
+        font-size: 13px;
+        margin: 2px;
+    }
+    .rectextstyle{
+        display: inline-block;
+        font-family: 'Heebo', sans-serif;
+        font-size: 13px;
+        margin: 2px;
+            background-color:#fafcfc;
+            border-radius: 3px;
+        box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        padding-top: 3px;
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-bottom: 2px;
+        margin:10px;
+    }
+ 
+ 
+
+
+</style>
+<body>
+    <div id="chatbody">
+        <div id="senderhead">
+            <p>BotMafia</p>
+
+        </div>
+     
+        <div id="msgbody">
+            
+
+        </div>
+        <div id="txtbody">
+            <input type="text" id="text" placeholder="Enter message">
+            <input type="button" id="send" value="Send" onclick="send()">
+
+        </div>
+
+    </div>
+
+
+
+
+
+</body>
+<script src = "home.js"></script>
+</html>
