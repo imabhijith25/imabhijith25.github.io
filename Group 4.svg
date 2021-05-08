@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="358" viewBox="0 0 222 358">
+  <g id="Group_4" data-name="Group 4" transform="translate(-44 -427)">
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(44 434)" fill="#f9f7f7" stroke="#e4e4e4" stroke-width="1">
+      <rect width="99" height="86" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="98" height="85" rx="1.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="99" height="21" rx="2" transform="translate(44 427)" fill="#2bdcb3"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="82" height="19" transform="translate(52 496)" fill="#fff"/>
+    <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(44 579)" fill="#f9f7f7" stroke="#e1d7d7" stroke-width="1">
+      <rect width="111" height="85" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="110" height="84" rx="1.5" fill="none"/>
+    </g>
+    <text id="_userId_:_1_id_:_1_title_:_delectus_aut_autem_completed_:_false_" data-name="{
+   &quot;userId&quot;: 1,
+    &quot;id&quot;: 1,
+     title&quot;: &quot;delectus aut autem&quot;,
+    &quot;completed&quot;: false
+}" transform="translate(54 602)" fill="#a2a2a2" font-size="7" font-family="Calibri-BoldItalic, Calibri" font-weight="700" font-style="italic"><tspan x="0" y="0">{</tspan><tspan x="0" y="9" xml:space="preserve">   &quot;userId&quot;: 1,</tspan><tspan x="0" y="18" xml:space="preserve">    &quot;id&quot;: 1,</tspan><tspan x="0" y="27" xml:space="preserve">     title&quot;: &quot;delectus aut autem&quot;,</tspan><tspan x="0" y="36" xml:space="preserve">    &quot;completed&quot;: false</tspan><tspan x="0" y="45">}</tspan></text>
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(44 713)" fill="#fff" stroke="#707070" stroke-width="3">
+      <rect width="65" height="24" stroke="none"/>
+      <rect x="1.5" y="1.5" width="62" height="21" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(44 761)" fill="#fff" stroke="#707070" stroke-width="3">
+      <rect width="65" height="24" stroke="none"/>
+      <rect x="1.5" y="1.5" width="62" height="21" fill="none"/>
+    </g>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(44 737)" fill="#fff" stroke="#707070" stroke-width="3">
+      <rect width="65" height="24" stroke="none"/>
+      <rect x="1.5" y="1.5" width="62" height="21" fill="none"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="35.553" transform="translate(51.668 725.234)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_10" data-name="Line 10" x2="35.553" transform="translate(51.74 725.234)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_7" data-name="Line 7" x2="35.553" transform="translate(51.668 773.137)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(95 721)" fill="#fff" stroke="#707070" stroke-width="3">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="2.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(95 769)" fill="#fff" stroke="#707070" stroke-width="3">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="2.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(95 746)" fill="#fff" stroke="#707070" stroke-width="3">
+      <ellipse cx="4" cy="3.5" rx="4" ry="3.5" stroke="none"/>
+      <ellipse cx="4" cy="3.5" rx="2.5" ry="2" fill="none"/>
+    </g>
+    <line id="Line_11" data-name="Line 11" x2="35.553" transform="translate(51.668 749.509)" fill="none" stroke="#707070" stroke-width="3"/>
+    <text id="Choose_from_a_range_of_themes_provided_by_botmafia._Connect_botmafia_UI_to_your_local_server." data-name="Choose from a range of 
+themes provided
+by botmafia. 
+Connect botmafia UI to
+your local server." transform="translate(155 448)" fill="#707070" font-size="11" font-family="Calibri"><tspan x="0" y="0">Choose from a range of </tspan><tspan x="0" y="13">themes provided</tspan><tspan x="0" y="26">by botmafia. </tspan><tspan x="0" y="39">Connect botmafia UI to</tspan><tspan x="0" y="52">your local server.</tspan></text>
+    <text id="When_the_user_enters_a_message_botmafia_sends_a_POST_request_to_your_server_with_the_message_text." data-name="When the user enters a
+message, botmafia 
+sends a POST request 
+to your server with the 
+message text." transform="translate(161 597)" fill="#707070" font-size="11" font-family="Calibri"><tspan x="0" y="0">When the user enters a</tspan><tspan x="0" y="13">message, botmafia </tspan><tspan x="0" y="26">sends a POST request </tspan><tspan x="0" y="39">to your server with the </tspan><tspan x="0" y="52">message text.</tspan></text>
+    <text id="Your_backend_server_should_capture_the_data_and_send_an_appropriate_return_message." data-name="Your backend server should 
+capture the data and send
+an appropriate return message." transform="translate(117 738)" fill="#707070" font-size="11" font-family="Calibri"><tspan x="0" y="0">Your backend server should </tspan><tspan x="0" y="13">capture the data and send</tspan><tspan x="0" y="26">an appropriate return message.</tspan></text>
+  </g>
+</svg>
